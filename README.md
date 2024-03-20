@@ -7,4 +7,4 @@ The main goal of this project is to explore and understand how these components 
 
 This screenshot displays the layout design of the project, showcasing the arrangement of basic UI components such as columns and rows.
 
-![Screen Layout](https://i.imgur.com/2lXM7mg.png)s
+![Screen Layout](https://i.imgur.com/2lXM7mg.png)
